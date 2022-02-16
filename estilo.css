@@ -1,0 +1,12 @@
+body{
+    background: yellow;
+    margin: auto;
+
+}
+div{
+    background: blue;
+    border-radius: 50% black;
+}
+li{
+    color: aquamarine;
+}
